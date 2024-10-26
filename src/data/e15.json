@@ -1,0 +1,59 @@
+{
+    "Monday": [
+      { "time": "09:00 - 10:00", "subject": "Mathematics", "classroom": "Room 101" },
+      { "time": "10:00 - 11:00", "subject": "English", "classroom": "Room 102" },
+      { "time": "11:00 - 12:00", "subject": "Physics", "classroom": "Lab 201" },
+      { "time": "12:00 - 13:00", "subject": "Lunch Break", "classroom": "Cafeteria" },
+      { "time": "13:00 - 14:00", "subject": "Chemistry", "classroom": "Lab 202" },
+      { "time": "14:00 - 15:00", "subject": "History", "classroom": "Room 103" }
+    ],
+    "Tuesday": [
+      { "time": "09:00 - 10:00", "subject": "Biology", "classroom": "Lab 203" },
+      { "time": "10:00 - 11:00", "subject": "Computer Science", "classroom": "Computer Lab" },
+      { "time": "11:00 - 12:00", "subject": "Physical Education", "classroom": "Gymnasium" },
+      { "time": "12:00 - 13:00", "subject": "Lunch Break", "classroom": "Cafeteria" },
+      { "time": "13:00 - 14:00", "subject": "Art", "classroom": "Art Studio" },
+      { "time": "14:00 - 15:00", "subject": "Geography", "classroom": "Room 104" }
+    ],
+    "Wednesday": [
+      { "time": "09:00 - 10:00", "subject": "Chemistry", "classroom": "Lab 202" },
+      { "time": "10:00 - 11:00", "subject": "English Literature", "classroom": "Room 102" },
+      { "time": "11:00 - 12:00", "subject": "Biology", "classroom": "Lab 203" },
+      { "time": "12:00 - 13:00", "subject": "Lunch Break", "classroom": "Cafeteria" },
+      { "time": "13:00 - 14:00", "subject": "Mathematics", "classroom": "Room 101" },
+      { "time": "14:00 - 15:00", "subject": "Physical Education", "classroom": "Gymnasium" }
+    ],
+    "Thursday": [
+      { "time": "09:00 - 10:00", "subject": "Physics", "classroom": "Lab 201" },
+      { "time": "10:00 - 11:00", "subject": "Computer Science", "classroom": "Computer Lab" },
+      { "time": "11:00 - 12:00", "subject": "Geography", "classroom": "Room 104" },
+      { "time": "12:00 - 13:00", "subject": "Lunch Break", "classroom": "Cafeteria" },
+      { "time": "13:00 - 14:00", "subject": "History", "classroom": "Room 103" },
+      { "time": "14:00 - 15:00", "subject": "Art", "classroom": "Art Studio" }
+    ],
+    "Friday": [
+      { "time": "09:00 - 10:00", "subject": "Mathematics", "classroom": "Room 101" },
+      { "time": "10:00 - 11:00", "subject": "Physics", "classroom": "Lab 201" },
+      { "time": "11:00 - 12:00", "subject": "Chemistry", "classroom": "Lab 202" },
+      { "time": "12:00 - 13:00", "subject": "Lunch Break", "classroom": "Cafeteria" },
+      { "time": "13:00 - 14:00", "subject": "English", "classroom": "Room 102" },
+      { "time": "14:00 - 15:00", "subject": "Computer Science", "classroom": "Computer Lab" }
+    ],
+    "Saturday": [
+      { "time": "09:00 - 10:00", "subject": "Physical Education", "classroom": "Gymnasium" },
+      { "time": "10:00 - 11:00", "subject": "Art", "classroom": "Art Studio" },
+      { "time": "11:00 - 12:00", "subject": "Geography", "classroom": "Room 104" },
+      { "time": "12:00 - 13:00", "subject": "Lunch Break", "classroom": "Cafeteria" },
+      { "time": "13:00 - 14:00", "subject": "Biology", "classroom": "Lab 203" },
+      { "time": "14:00 - 15:00", "subject": "History", "classroom": "Room 103" }
+    ],
+    "Sunday": [
+      { "time": "09:00 - 10:00", "subject": "Self Study", "classroom": "Library" },
+      { "time": "10:00 - 11:00", "subject": "Group Study", "classroom": "Study Hall" },
+      { "time": "11:00 - 12:00", "subject": "Workshop", "classroom": "Room 105" },
+      { "time": "12:00 - 13:00", "subject": "Lunch Break", "classroom": "Cafeteria" },
+      { "time": "13:00 - 14:00", "subject": "Self Study", "classroom": "Library" },
+      { "time": "14:00 - 15:00", "subject": "Workshop", "classroom": "Room 106" }
+    ]
+  }
+  
